@@ -21,3 +21,4 @@ Thus, we arrive at the idea of a tangent space to a manifold. The **tangent spac
 
 ![tangent-space](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tangentialvektor.svg/1024px-Tangentialvektor.svg.png)
 
+If you want to read more math, you can read about the [Riemann Roch Theorem](https://www.brianton.me/fun-stuff/arithmetic-riemann-roch/) written by my friend Brian :). 
